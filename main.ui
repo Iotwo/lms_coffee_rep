@@ -59,8 +59,20 @@
      <height>22</height>
     </rect>
    </property>
+   <widget class="QMenu" name="rec_menu">
+    <property name="title">
+     <string>Запись</string>
+    </property>
+    <addaction name="addRec_menuItem"/>
+   </widget>
+   <addaction name="rec_menu"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
+  <action name="addRec_menuItem">
+   <property name="text">
+    <string>Добавить</string>
+   </property>
+  </action>
  </widget>
  <resources/>
  <connections/>
