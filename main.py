@@ -48,10 +48,8 @@ class Espresso(QMainWindow):
         return None
 
     def add_new_rec(self) -> None:
-        print("hey!")
         self.editor = AddOrEditCoffee(self, [])
         self.editor.show()
-        print("ho!")
         return None
 
 

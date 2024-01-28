@@ -167,6 +167,15 @@
    </layout>
   </widget>
  </widget>
+ <tabstops>
+  <tabstop>name_txtEd</tabstop>
+  <tabstop>burn_txtEd</tabstop>
+  <tabstop>blend_txtEd</tabstop>
+  <tabstop>taste_txtEd</tabstop>
+  <tabstop>price_txtEd</tabstop>
+  <tabstop>vol_txtEd</tabstop>
+  <tabstop>addEdit_btn</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>
